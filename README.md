@@ -1,13 +1,13 @@
-### Hi there 👋
-I am Otokpa Oluwabunmi Marvelous, A Business Educator passionate about turning raw data into insightful tool for innovative business decisions.
-<!--
-**OTOKPA OLUWABUNMI MARVELOUS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi there 👋
+## This is Otokpa Oluwabunmi Marvelous
+A Business Educator passionate about turning raw data into insightful tool for innovative business decisions.
+
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on...
-- 🌱 I’m currently learning Data Analytics at Dahel Techies Consultants
-- 👯 I’m looking to collaborate on ...
+- 🔭 I’m currently working with Federal Road Safety Corps, National Headquarters, Abuja.
+- 🌱 I’m currently learning Data Analytics at DaHel Consultants and Techies.
+- 👯 I’m looking to collaborate on Data Analytics projects 
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: elyonitee@gmail.com
